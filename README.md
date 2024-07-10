@@ -42,7 +42,7 @@
 
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?jjb03=jjb03&show_icons=true&theme=vue">
+   <img src="https://github-readme-stats.vercel.app/api?jjb03=username&show_icons=true&theme=vue">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?jjb03=webvocado&layout=compact&theme=vue" style="height:195px;">
 </div>
 <br>
