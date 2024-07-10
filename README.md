@@ -52,3 +52,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebvocado&count_bg=%23429800&title_bg=%23A1C650&icon=github.svg&icon_color=%23FFFFFF&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 </div>
 
+# Git 정리
+JSP
+- https://github.com/JongsikLEE01/theJoeunUniversity
+
+SPRING BOOT
+- https://github.com/JJB03/Project05_FINDER
+
+REACT
+- https://github.com/yousangjun/MiniProject05_FINDER
+
+
+# Notion
+https://www.notion.so/0d4e46bf8ec04865aa51967e45403156
+
+
