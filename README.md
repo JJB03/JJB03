@@ -42,8 +42,8 @@
 
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=webvocado&show_icons=true&theme=vue">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webvocado&layout=compact&theme=vue" style="height:195px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=jjb03&show_icons=true&theme=vue">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?jjb03=webvocado&layout=compact&theme=vue" style="height:195px;">
 </div>
 <br>
 
