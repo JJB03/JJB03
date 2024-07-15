@@ -55,18 +55,21 @@
 
 # Git 정리
 JSP
-- <a href="https://github.com/JongsikLEE01/theJoeunUniversity">
+<br>
+<a href="https://github.com/JongsikLEE01/theJoeunUniversity">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </a>
 
 
 SPRING BOOT
-- <a href="https://github.com/JJB03/Project05_FINDER">
+<br>
+<a href="https://github.com/JJB03/Project05_FINDER">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </a>
 
-REACT 
-- <a href="https://github.com/yousangjun/MiniProject05_FINDER">
+REACT
+<br>
+<a href="https://github.com/yousangjun/MiniProject05_FINDER">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </a>
 
