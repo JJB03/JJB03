@@ -50,16 +50,25 @@
 
 # Git 정리
 JSP
-- https://github.com/JongsikLEE01/theJoeunUniversity
+- <a href="https://github.com/JongsikLEE01/theJoeunUniversity">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+
 
 SPRING BOOT
 - https://github.com/JJB03/Project05_FINDER
+- <a href="https://github.com/JJB03/Project05_FINDER">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+</a>
 
-REACT
-- https://github.com/yousangjun/MiniProject05_FINDER
-
+REACT 
+- <a href="https://github.com/yousangjun/MiniProject05_FINDER">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+</a>
 
 # Notion
-https://www.notion.so/0d4e46bf8ec04865aa51967e45403156
+<a href="https://www.notion.so/0d4e46bf8ec04865aa51967e45403156">
+  <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+</a>
 
 
