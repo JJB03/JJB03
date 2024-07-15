@@ -1,5 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=주빈%GitHub&fontSize=90" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&width=2000&section=header&text=주빈%GitHub&fontSize=90" />
 <div align="center">
 	 <h2 style="color:green;"> Tech Stack </h2>
 	 <strong><p>🧱 Platforms & Languages 🧱</p></strong>
