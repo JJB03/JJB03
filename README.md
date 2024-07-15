@@ -51,6 +51,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebvocado&count_bg=%23429800&title_bg=%23A1C650&icon=github.svg&icon_color=%23FFFFFF&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 </div>
 
+<div align="center"> 
+
 # Git 정리
 JSP
 - <a href="https://github.com/JongsikLEE01/theJoeunUniversity">
@@ -73,4 +75,5 @@ REACT
   <img src="https://img.shields.io/badge/Notion-FF8000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
+</div>
 
