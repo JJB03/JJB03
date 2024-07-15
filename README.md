@@ -1,6 +1,3 @@
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=100&text=☘️Introduce Me🥑&fontSize=50&fontColor=3CB371&animation=twinkling" />	
-</div>
 
 <div align="center">
 	 <h2 style="color:green;"> Tech Stack </h2>
@@ -42,8 +39,7 @@
 
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?jjb03=username&show_icons=true&theme=vue">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?jjb03=webvocado&layout=compact&theme=vue" style="height:195px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjb03&show_icons=true&theme=panda"/>
 </div>
 <br>
 
