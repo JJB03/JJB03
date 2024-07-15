@@ -56,7 +56,6 @@ JSP
 
 
 SPRING BOOT
-- https://github.com/JJB03/Project05_FINDER
 - <a href="https://github.com/JJB03/Project05_FINDER">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </a>
@@ -68,7 +67,7 @@ REACT
 
 # Notion
 <a href="https://www.notion.so/0d4e46bf8ec04865aa51967e45403156">
-  <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-FF8000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
 
